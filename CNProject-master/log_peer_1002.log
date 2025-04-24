@@ -1,0 +1,7 @@
+2025-04-23 23:39:14: Peer 1002 is started
+2025-04-23 23:39:57: Peer 1002 HANDSHAKE has been sent...
+2025-04-23 23:39:57: Peer 1002 makes a connection to Peer 1001
+2025-04-23 23:39:57: Peer 1002 Received a HANDSHAKE message from Peer 1001
+2025-04-23 23:39:58: Peer 1002 sending an INTERESTED message to Peer 1001
+2025-04-23 23:39:58: Peer 1002 is UNCHOKED by Peer 1001
+2025-04-23 23:39:59: Peer 1002 has downloaded the PIECE 0 from Peer 1001. Now the number of pieces it has is 1

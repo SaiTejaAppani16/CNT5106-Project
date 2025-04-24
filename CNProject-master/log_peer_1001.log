@@ -1,0 +1,12 @@
+2025-04-23 23:38:56: Peer 1001 is started
+2025-04-23 23:38:56: Peer 1001 has completed file download. Marking as complete...
+2025-04-23 23:39:57: Peer 1001 Connection is established
+2025-04-23 23:39:57: Peer 1001 makes a connection to Peer 1002
+2025-04-23 23:39:57: Peer 1001 Received a HANDSHAKE message from Peer 1002
+2025-04-23 23:39:57: Peer 1001 HANDSHAKE message has been sent successfully.
+2025-04-23 23:39:57: Peer 1001 receieved a BITFIELD message from Peer 1002
+2025-04-23 23:39:57: Peer 1001 sending BITFIELD message to Peer 1002
+2025-04-23 23:39:58: Peer 1001 receieved an INTERESTED message from Peer 1002
+2025-04-23 23:39:58: Peer 1001 sending UNCHOKE message to Peer 1002
+2025-04-23 23:39:58: Peer 1001 sending a PIECE message for piece 0 to Peer 1002
+2025-04-23 23:39:59: Peer 1001 sending a PIECE message for piece 1 to Peer 1002
